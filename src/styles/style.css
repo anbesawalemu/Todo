@@ -1,0 +1,200 @@
+.header {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .header ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .header ul li {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  
+  .header ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .header ul li a:hover {
+    color:black;
+    text-decoration: none;
+  }
+  
+  hr {
+    border: 0;
+    height: 1px;
+    background-color: #ccc;
+    margin-top: 20px;
+  }
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 15px;
+  }
+  .food {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    width: 250px;
+    margin: 100px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .food li {
+    list-style-type: none;
+    font-size: 18px;
+    color: #333;
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .food li:last-child {
+    border-bottom: none;
+  }
+  
+  .food li:hover {
+    background-color: #ffeb3b;
+    cursor: pointer;
+  }
+  .card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .card img {
+    max-width: 60px;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .card h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  .card p {
+    font-size: 30px;
+    color:black;
+    margin: 0;
+  }
+  .btn{
+    background-color:hsl(200, 100%, 50%) ;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius:5px ;
+    cursor: pointer;
+  }
+  .student{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding: 10px;
+    border: 1px solid hsla(0, 0%, 0%, 0.832);
+  }
+  .student p{
+    margin: 0;
+  }
+  .log{
+    font-size: 2.5em;
+    background-color: hsl(120, 100%,42%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+
+  }
+  .login{
+   
+    font-size: 2.5em;
+    background-color: hsl(0, 100%,42%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+  }
+  .fru{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: hsl(0, 0%, 20%);
+    margin-bottom: 10px;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 5px;
+    background-color: hsl(185, 100%, 50%);
+  }
+  .item{
+    font-size: 2em;
+    list-style: none;
+    color: hsl(0, 0%,25%);
+    text-align: center;
+    margin: 0;
+  }
+  .item:hover{
+    color: hsl(100,25%,50%);
+    cursor: pointer;
+  }
+ .bt{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+ }
+ .ht{
+  font-size: 10em;
+  margin: 0;
+  margin-bottom: 50px;
+ }
+ .incre{
+  width: 150px;
+  height: 50px;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0px 5px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+ }
+ .bt:hover{
+  background-color: hsl(197, 100%, 58%);
+ }
+ .incre:hover{
+  background-color: hsl(0, 25%, 50%);
+ }
+ 
+
+  
+  
+  
